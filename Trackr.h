@@ -1,10 +1,3 @@
-/*******************************************************************************
-*                                                                              *
-*   PrimeSense NiTE 2.0 - User Viewer Sample                                   *
-*   Copyright (C) 2012 PrimeSense Ltd.                                         *
-*                                                                              *
-*******************************************************************************/
-
 #ifndef _NITE_USER_VIEWER_H_
 #define _NITE_USER_VIEWER_H_
 
